@@ -29,10 +29,10 @@ Just for those of y'all who might need a refresher on the topic, here are the po
 
 In the event of a tie, some people like to use suit as a tie breaker.  Here are the suit orders from highest to lowest.
 
-          Spades
-          Hearts
-          Clubs
-          Diamonds
+      Spades
+      Hearts
+      Clubs
+      Diamonds
 
 ## Even More Bonus
 
